@@ -1,0 +1,25 @@
+{
+  "name": "@bidq/client",
+  "version": "0.1.0",
+  "description": "BidQ SDK",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bidq/bidqjs.git"
+  },
+  "author": "Alon Niv",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/bidq/bidqjs/issues"
+  },
+  "homepage": "https://github.com/bidq/bidqjs#readme",
+  "dependencies": {
+    "uuid": "^3.3.3"
+  },
+  "publishConfig": {
+    "access": "public"
+  }
+}
